@@ -1,8 +1,10 @@
-=======================================
 
 edit NumberOptionHandler
+
 set MAX_CONNECTION_PER_SERVER 256
+
 set configure.ac line 799 AM_GNU_GETTEXT_VERSION([0.19])
+
 easy to build
 
 
